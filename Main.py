@@ -3,7 +3,7 @@ from tkinter import scrolledtext, messagebox
 from google import genai
 import api
 
-client = genai.Client(api_key=api.api_key)
+client = genai.Client(api_key="")
 
 chatbot_name = "AI Bot"
 
