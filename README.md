@@ -24,7 +24,7 @@ A complete AI solution powered by Python — featuring a robust **AI core**, a *
 ## 🚀 Getting Started
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/GoldSpell/Ai-Python-Model---Api-Gui?tab=readme-ov-file)
 
 # Install dependencies
 pip install -r requirements.txt
